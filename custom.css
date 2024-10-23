@@ -1,0 +1,10 @@
+.container,
+.container-fluid,
+.container-sm,
+.container-md,
+.container-lg,
+.container-xl,
+.container-xxl {
+    background-color: plum;
+    border: 2px solid violet;
+}
